@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 😎 About Me
-  <li>🏫 Gachon Univ. - Deapartment of Software (2018 - )</li>
+  <li>🏫 Gachon Univ. - Department of Software (2018 - )</li>
   <li>✨ KUSITMS 24th (2021.09 - 2021.11)</li>
   <li>📚 Studying Front-end Development</li>
   
