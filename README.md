@@ -3,7 +3,6 @@
 ### 😎 About Me
   <li>🏫 Gachon Univ. - Department of Software (2018 - )</li>
   <li>✨ KUSITMS 24th (2021.09 - 2021.11)</li>
-  <li>📚 Studying Front-end Development</li>
   
 ### 👨‍💻 Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
