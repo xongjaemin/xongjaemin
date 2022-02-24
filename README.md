@@ -1,4 +1,4 @@
-# Hi I'm jaemin 👋
+# 🌴 👋😀👍 🏝
 
 ### 😎 About Me
   <li>🏫 Gachon Univ. - Department of Software (2018 - )</li>
