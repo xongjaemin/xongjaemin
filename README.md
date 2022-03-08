@@ -3,7 +3,7 @@
 ### 😎 About Me
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. - Department of Software</a> (2018 - )</li>
   <li>✨ <a href="https://cafe.naver.com/kusitms">KUSITMS</a> 24th (2021.09 - 2021.11)</li>
-  <li>📱 <a href="https://makeus-challenge.oopy.io/umc">University MakeUs Challenge</a> @GCU 2nd (2022.03 - )</li>
+  <li>📱 <a href="https://makeus-challenge.oopy.io/umc">University MakeUs Challenge</a> @Gachon 2nd (2022.03 - )</li>
   
 ### 👨‍💻 Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
