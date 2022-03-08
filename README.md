@@ -1,7 +1,7 @@
 # 🌴 👋😀👍 🏝
 
 ### 😎 About Me
-  <li>🏫 Gachon Univ. - Department of Software (2018 - )</li>
+  <li>🏫 Gachon Univ. - <a href="https://sw.gachon.ac.kr/cms/">Department of Software</a> (2018 - )</li>
   <li>✨ KUSITMS 24th (2021.09 - 2021.11)</li>
   
 ### 👨‍💻 Stack
