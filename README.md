@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xongjaemin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xongjaemin)](https://github.com/anuraghazra/github-readme-stats) <br/>
   
