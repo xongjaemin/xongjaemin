@@ -1,6 +1,6 @@
 # 🌴 👋😀👍 🏝
 
-### 😎 About Me
+### 😎 Experience
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. - Department of Software</a> (2018 - )</li>
   <li>✨ <a href="https://cafe.naver.com/kusitms">KUSITMS</a> 24th (2021.09 - 2021.11)</li>
   <li>🍚 <a href="https://github.com/samshiSekki">삼시세끼</a> FE Developer (2021.09 - )</li>
