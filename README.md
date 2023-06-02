@@ -18,7 +18,3 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xongjaemin)](https://github.com/anuraghazra/github-readme-stats) <br/>
-  
