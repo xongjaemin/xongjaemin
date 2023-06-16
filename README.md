@@ -3,7 +3,7 @@
 <a href="https://quaint-catsup-1e2.notion.site/500c2f7cd418408ebb6116505e0ce104"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### 🏫 Education
-  <li>🍫 Kakao Enterprise SW Academy (2023.03 - )</li>
+  <li>🍫 Kakao Enterprise SW Academy (2023.03 - 2023.06)</li>
   <li>🇺🇸 <a href="https://peoplespace.us/">Peoplespace</a> International AI Program (2023.01 - 2023.02)</li>
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. - Department of Software</a> (2018 - )</li>
 
