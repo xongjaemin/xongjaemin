@@ -3,14 +3,17 @@
 <a href="https://quaint-catsup-1e2.notion.site/500c2f7cd418408ebb6116505e0ce104"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### 🏫 Education
-  <li>🍫 Kakao Enterprise SW Academy (2023.03 - 2023.06)</li>
+  <li>🍫 카카오엔터프라이즈 SW 아카데미 (2023.03 - 2023.06)</li>
   <li>🇺🇸 <a href="https://peoplespace.us/">Peoplespace</a> International AI Program (2023.01 - 2023.02)</li>
-  <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">Gachon Univ. - Department of Software</a> (2018 - )</li>
+  <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">가천대학교 소프트웨어학과</a> (2018 - )</li>
+
+### 💼 Career
+  <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 프론트엔드 개발 인턴 (2023.06 - )</li>
 
 ### 😎 Activities
-  <li>📱 <a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 2nd iOS Course (2022.03 - 2022.08)</li>
-  <li>🍚 <a href="https://github.com/samshiSekki">삼시세끼</a> FE Developer (2021.09 - )</li>
-  <li>✨ <a href="https://cafe.naver.com/kusitms">KUSITMS</a> 24th (2021.09 - 2021.11)</li>
+  <li>📱 <a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 2nd iOS 파트 (2022.03 - 2022.08)</li>
+  <li>🍚 <a href="https://github.com/samshiSekki">삼시세끼</a> 프론트엔드 개발자 (2021.09 - )</li>
+  <li>✨ <a href="https://cafe.naver.com/kusitms">KUSITMS</a> 24th 개발팀 (2021.09 - 2021.11)</li>
   
 ### 👨‍💻 Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
