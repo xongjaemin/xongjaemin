@@ -8,7 +8,7 @@
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">가천대학교 소프트웨어학과</a> (2018 - )</li>
 
 ### 💼 Career
-  <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 프론트엔드 개발 인턴 (2023.06 - )</li>
+  <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 플랫폼팀 프론트엔드 개발 인턴 (2023.06 - )</li>
 
 ### 😎 Activities
   <li>📱 <a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 2nd iOS 파트 (2022.03 - 2022.08)</li>
