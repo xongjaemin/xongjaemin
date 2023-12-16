@@ -1,6 +1,7 @@
 # 🌴 👋😀👍 🏝
 ### 🙋‍♂️ About Me
 <a href="https://quaint-catsup-1e2.notion.site/500c2f7cd418408ebb6116505e0ce104"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%9E%AC%EB%AF%BC-%EC%86%A1-2b069a21a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 🏫 Education
   <li>🍫 카카오엔터프라이즈 SW 아카데미 (2023.03 - 2023.06)</li>
