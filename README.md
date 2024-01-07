@@ -13,7 +13,6 @@
 
 ### 😎 Activities
   <li>📱 <a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 2nd iOS 파트 (2022.03 - 2022.08)</li>
-  <li>🍚 <a href="https://github.com/samshiSekki">삼시세끼</a> 프론트엔드 개발자 (2021.09 - )</li>
   <li>✨ <a href="https://cafe.naver.com/kusitms">KUSITMS</a> 24th 개발팀 (2021.09 - 2021.11)</li>
   
 ### 👨‍💻 Stack
