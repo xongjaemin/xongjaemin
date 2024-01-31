@@ -5,13 +5,13 @@
 
 ### 🏫 Education
   <li>🍫 카카오엔터프라이즈 SW 아카데미 (2023.03 - 2023.06)</li>
-  <li>🇺🇸 <a href="https://peoplespace.us/">Peoplespace</a> International AI Program (2023.01 - 2023.02)</li>
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">가천대학교 소프트웨어학과</a> (2018 - )</li>
 
 ### 💼 Career
   <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 플랫폼팀 프론트엔드 개발 인턴 (2023.06 - 2023.12)</li>
 
 ### 😎 Activities
+  <li>🇺🇸 <a href="https://peoplespace.us/">Peoplespace</a> International AI Program (2023.01 - 2023.02)</li>
   <li>📱 <a href="https://www.makeus.in/umc">University MakeUs Challenge</a> @GCU 2nd iOS 파트 (2022.03 - 2022.08)</li>
   <li>✨ <a href="https://cafe.naver.com/kusitms">KUSITMS</a> 24th 개발팀 (2021.09 - 2021.11)</li>
   
