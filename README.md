@@ -8,7 +8,7 @@
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">가천대학교 소프트웨어학과</a> (2018.03 - 2024.08)</li>
 
 ### 💼 Career
-  <li>🛳️ <a href="http://samsungshi.com/Ko/Default.aspx">삼성중공업</a> R&D (2023.08 - )</li>
+  <li>🛳️ <a href="http://samsungshi.com/Ko/Default.aspx">삼성중공업</a> (2023.08 - )</li>
   <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 플랫폼팀 프론트엔드 개발 인턴 (2023.06 - 2023.12)</li>
 
 ### 😎 Activities
