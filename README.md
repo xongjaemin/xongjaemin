@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/%EC%9E%AC%EB%AF%BC-%EC%86%A1-2b069a21a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 💼 Career
-  <li>🛳️ <a href="http://samsungshi.com/Ko/Default.aspx">삼성중공업</a> 디지털사업팀 플랫폼개발그룹 (2023.09 - )</li>
+  <li>🛳️ <a href="http://www.samsungshi.com/">삼성중공업</a> 디지털사업팀 플랫폼개발그룹 (2023.09 - )</li>
   <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 플랫폼팀 프론트엔드 개발 인턴 (2023.06 - 2023.12)</li>
 
 ### 😎 Activities
