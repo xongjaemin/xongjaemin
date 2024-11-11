@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/%EC%9E%AC%EB%AF%BC-%EC%86%A1-2b069a21a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 💼 Career
-  <li>🛳️ <a href="http://www.samsungshi.com/">삼성중공업</a> 디지털사업팀 플랫폼개발그룹 (2023.09 - )</li>
+  <li>🛳️ <a href="http://www.samsungshi.com/">삼성중공업</a> 디지털사업팀 플랫폼개발그룹 SW Engineer (2023.09 - )</li>
   <li>🚁 <a href="https://pabloair.com/main/main.html">파블로항공</a> 플랫폼팀 프론트엔드 개발 인턴 (2023.06 - 2023.12)</li>
 
 ### 😎 Activities
@@ -15,6 +15,9 @@
 ### 🏫 Education
   <li>🍫 카카오엔터프라이즈 SW 아카데미 (2023.03 - 2023.06)</li>
   <li>🏫 <a href="https://sw.gachon.ac.kr/cms/">가천대학교 소프트웨어학과</a> (2018.03 - 2024.08)</li>
+
+### 📝 Paper
+  <li><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11616447">GAN 및 React Native 기반의 웹툰 스타일 이미지 편집 애플리케이션 개발</a> - JDCS 2023.11</li>
   
 ### 👨‍💻 Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -29,3 +32,5 @@
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>
