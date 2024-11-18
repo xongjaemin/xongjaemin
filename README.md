@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/xongjaemin"/>
